@@ -13,7 +13,7 @@
 html {
     /* 1 */
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: normal;
     line-height: 1.5;
     /* 2 */
@@ -21,7 +21,7 @@ html {
     -ms-text-size-adjust: 100%;
     /* 3 */
     background: #fff;
-    color: #666;
+    color: #222;
 }
 
 
@@ -67,14 +67,14 @@ a:hover {
 
 a,
 .uk-link {
-    color: #1e87f0;
+    color: #00a0e9;
     text-decoration: none;
     cursor: pointer;
 }
 
 a:hover,
 .uk-link:hover {
-    color: #0f6ecd;
+    color: #e40075;
     text-decoration: underline;
 }
 
@@ -318,7 +318,7 @@ h6,
     margin: 0 0 20px 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     font-weight: normal;
-    color: #333;
+    color: #003f61;
     text-transform: none;
 }
 
@@ -2590,7 +2590,7 @@ select.uk-form-width-xsmall {
  */
 
 .uk-button-primary {
-    background-color: #1e87f0;
+    background-color: #00a0e9;
     color: #fff;
     border: 1px solid transparent;
 }
@@ -4531,18 +4531,18 @@ select.uk-form-width-xsmall {
  ========================================================================== */
 
 .uk-article-meta {
-    font-size: 0.875rem;
+    font-size: 1.2rem;
     line-height: 1.4;
-    color: #999;
+    color: #666;
 }
 
 .uk-article-meta a {
-    color: #999;
+    color: #00a0e9;
 }
 
 .uk-article-meta a:hover {
-    color: #666;
-    text-decoration: none;
+    color: #e40075;
+    text-decoration: underline;
 }
 
 
@@ -5471,7 +5471,7 @@ ul.uk-nav-sub {
  */
 
 .uk-navbar-nav>li>a {
-    color: #999;
+    color: #003f61;
     text-transform: uppercase;
     -webkit-transition: 0.1s ease-in-out;
     transition: 0.1s ease-in-out;
@@ -5576,7 +5576,7 @@ ul.uk-nav-sub {
     /* 4 */
     padding: 25px;
     background: #fff;
-    color: #666;
+    color: #003f61;
     box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
 }
 
@@ -5690,7 +5690,7 @@ ul.uk-nav-sub {
  */
 
 .uk-navbar-dropdown-nav>li>a {
-    color: #999;
+    color: #003f61;
 }
 
 
@@ -10052,11 +10052,11 @@ td.uk-text-break {
 }
 
 .uk-background-primary {
-    background-color: #1e87f0;
+    background-color: #00a0e9;
 }
 
 .uk-background-secondary {
-    background-color: #222;
+    background-color: #e40075;
 }
 
 
